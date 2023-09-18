@@ -1,0 +1,3 @@
+local_gpt2_model/
+*.db
+*.txt
